@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
+<p align="center">
+  <img src="https://github.com/sjo112777/sjo112777/blob/main/assets/banner.png" alt="손준오 개발자 배너" width="100%" />
+</p>
 
-<!--
-**sjo112777/sjo112777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 안녕하세요, 백엔드 개발자 손준오입니다!</h1>
+<p align="center">
+  도전과 성장, 실무형 협업을 즐기는 개발자입니다.<br/>
+  Java 기반의 웹 백엔드 개발을 중심으로, <strong>React</strong> 프론트엔드와 <strong>AWS 배포</strong>까지 경험했습니다.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 IoT 개발 경험(1년 2개월), 현재는 Java/Spring 기반 **백엔드 개발자**로 성장 중
+- 🎯 실무 중심의 팀 프로젝트 경험 다수, **기획 → UI → 기능 → 배포** 전체 사이클 경험
+- 👥 Figma UI 기획, GitHub 협업, React/Vercel 배포, AWS EC2 백엔드 자동화까지 경험
+- 🧠 **문제 해결형 개발자**를 지향하며, 효율적인 협업과 구조 설계에 강점이 있습니다.
+
+---
+
+## 🔧 Tech Stack
+
+| 분야          | 기술                                                 |
+| ------------- | ---------------------------------------------------- |
+| **Back-end**  | Java, Spring Boot, Spring Security, JPA, QueryDSL    |
+| **Front-end** | HTML/CSS/JS, Thymeleaf, React, SCSS                  |
+| **DB**        | MySQL, MongoDB, Redis                                |
+| **DevOps**    | AWS EC2, Ubuntu, GitHub Actions, Gradle              |
+| **툴/기획**   | Figma, Postman, Notion, VS Code, IntelliJ, Photoshop |
+
+---
+
+## 📁 프로젝트
+
+### 🛍️ LOTTE ON 쇼핑몰 개발 (2025.03~2025.05)
+
+> [🔗 Notion 문서 보기](https://www.notion.so/e-LOTTE-ON-1ff05cfa4bc780639701fd3978037fe8?pvs=21)  
+> [🎬 시연 영상 보기](https://www.youtube.com/watch?v=dfm1wOsYnGA&t=321s)
+
+- **고객센터 시스템**: 공지사항/문의/FAQ 게시판 기능 전체 개발
+- **마이페이지**: 주문 내역, 쿠폰 내역, 판매자 문의 모달 등
+- **데이터베이스 설계**: ERD 설계 및 다중 테이블 조인 구현
+
+### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 팀장)
+
+- **전체 화면 기획**: Figma 기반 UI 구조 설계
+- **회원가입/로그인/결제** 기능 전체 구현 (React + Spring Security)
+- **프론트 React 이식 및 Vercel 배포**
+- **백엔드 AWS EC2 + GitHub Actions로 CI/CD 자동화**
+
+---
+
+## 📫 Contact
+
+- **Email**: sjo112777@gmail.com
+- **GitHub**: [github.com/sjo112777](https://github.com/sjo112777)
+- **YouTube**: [@juno-c7g](https://www.youtube.com/@juno-c7g)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjo112777&show_icons=true&theme=radical" />
+</p>
