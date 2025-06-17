@@ -10,58 +10,29 @@
 </p>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-333333?style=for-the-badge&logo=data&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- DevOps & Infra -->
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-<p align="center">
-  <!-- Collaboration & Design -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- ETC -->
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/c.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/springboot.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/spring.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vercel.svg" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/redis.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ubuntu.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/notion.svg" alt="Notion" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/androidstudio.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
 ---
