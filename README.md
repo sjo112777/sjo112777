@@ -91,37 +91,24 @@
 
 ### 🛍️ LOTTE ON 쇼핑몰 개발 (2025.03~2025.05)
 
-<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> </p>
-🔗 프로젝트 링크
-🎬 시연 영상 보기
+> [🔗 Notion 보고서 보기](https://www.notion.so/e-LOTTE-ON-1ff05cfa4bc780639701fd3978037fe8?pvs=21)  
+> [🎬 시연 영상 보기](https://www.youtube.com/watch?v=dfm1wOsYnGA&t=321s)  
+> [📁 팀 프로젝트 GitHub 보기](https://github.com/greenlotte6/lotte1-lotteon-project-team1)  
+> [📁 개인 클론 프로젝트 GitHub 보기](https://github.com/sjo112777/lotteonproject) _(개인 클론 버전)_
 
-📁 팀 프로젝트 GitHub 보기
+- **고객센터 시스템**  
+  공지사항/FAQ/문의 게시판 기능 전체 개발  
+  type_id 기반 분류 시스템 및 관리자/사용자용 화면 구현  
+  판매자 문의 모달 기능 및 UI 모듈화
 
-📁 개인 클론 프로젝트 GitHub 보기 (개인 클론 버전)
+- **마이페이지**  
+  주문 내역, 쿠폰 내역, 판매자 정보/문의 모달 등 기능 개발  
+  Controller - Service - Repository 계층별 로직 직접 구성  
+  복합키, 다중 테이블 조인을 통한 주문 상세 구현
 
-📝 Notion 프로젝트 보고서
-
-💡 주요 기능 및 담당 업무
-📌 고객센터 시스템 (공지사항/FAQ/문의)
-사용자/관리자용 UI 분리 및 모듈화
-
-type_id 기반 게시글 유형별 관리
-
-판매자에게 모달 기반 1:1 문의 기능
-
-📌 마이페이지 기능
-전체 주문내역/쿠폰내역 조회 기능 구현
-
-판매자 정보 확인 및 문의 모달창 구성
-
-DTO ~ Controller ~ Service ~ Repository 계층 직접 구현
-
-📌 쿠폰 시스템
-사용자 쿠폰 발급 이력 및 조회 구현
-
-다중 테이블 JOIN 및 복합키 쿼리 설계
-
-Gson 기반 JSON 직렬화 및 프론트 통신
+- **쿠폰 시스템**  
+  쿠폰 발급/이력 관리 기능 및 다중 JOIN 쿼리 설계  
+  Gson 활용한 JSON 직렬화 처리 및 프론트 통신 연결
 
 ### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 팀장)
 
