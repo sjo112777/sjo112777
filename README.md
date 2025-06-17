@@ -105,7 +105,7 @@
 
 ### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 진행중, 팀장)
 
-> [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c) 
+> [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c)  
 > [🔗 Figma 화면 기획 보기](https://www.figma.com/design/8dN3L1HTH6w9GJhjTBk2Xu/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_2%EC%A1%B0?node-id=0-1&p=f)  
 > [📁 GitHub 프로젝트 보기](https://github.com/greenlotte6/lotte2-community-app-project-team2) 
 
