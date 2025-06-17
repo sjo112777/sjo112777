@@ -10,29 +10,58 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/springboot.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/spring.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vercel.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/redis.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ubuntu.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/notion.svg" alt="Notion" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/arduino.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/androidstudio.svg" alt="Android Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- DevOps / Infra -->
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
+  <!-- Collaboration / Design -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- ETC -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
@@ -62,12 +91,37 @@
 
 ### 🛍️ LOTTE ON 쇼핑몰 개발 (2025.03~2025.05)
 
-> [🔗 Notion 문서 보기](https://www.notion.so/e-LOTTE-ON-1ff05cfa4bc780639701fd3978037fe8?pvs=21)  
-> [🎬 시연 영상 보기](https://www.youtube.com/watch?v=dfm1wOsYnGA&t=321s)
+<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> </p>
+🔗 프로젝트 링크
+🎬 시연 영상 보기
 
-- **고객센터 시스템**: 공지사항/문의/FAQ 게시판 기능 전체 개발
-- **마이페이지**: 주문 내역, 쿠폰 내역, 판매자 문의 모달 등
-- **데이터베이스 설계**: ERD 설계 및 다중 테이블 조인 구현
+📁 팀 프로젝트 GitHub 보기
+
+📁 개인 클론 프로젝트 GitHub 보기 (개인 클론 버전)
+
+📝 Notion 프로젝트 보고서
+
+💡 주요 기능 및 담당 업무
+📌 고객센터 시스템 (공지사항/FAQ/문의)
+사용자/관리자용 UI 분리 및 모듈화
+
+type_id 기반 게시글 유형별 관리
+
+판매자에게 모달 기반 1:1 문의 기능
+
+📌 마이페이지 기능
+전체 주문내역/쿠폰내역 조회 기능 구현
+
+판매자 정보 확인 및 문의 모달창 구성
+
+DTO ~ Controller ~ Service ~ Repository 계층 직접 구현
+
+📌 쿠폰 시스템
+사용자 쿠폰 발급 이력 및 조회 구현
+
+다중 테이블 JOIN 및 복합키 쿼리 설계
+
+Gson 기반 JSON 직렬화 및 프론트 통신
 
 ### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 팀장)
 
