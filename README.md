@@ -103,8 +103,9 @@
 | **쿠폰 시스템**     | - 쿠폰 발급 및 이력 관리 전체 기능<br>- 복잡한 다중 테이블 JOIN 쿼리 설계<br>- `Gson`을 이용한 JSON 직렬화 및 통신 처리                                  |
 | **DB 설계 및 ERD**  | - MySQL 기반 ERD 및 테이블 설계<br>- `QueryDSL` 기반 조건 검색 및 정렬 처리                                                                              |
 
-### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 진행중 역할:팀장)
+### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 진행중, 팀장)
 
+> [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c) 
 > [🔗 Figma 화면 기획 보기](https://www.figma.com/design/8dN3L1HTH6w9GJhjTBk2Xu/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_2%EC%A1%B0?node-id=0-1&p=f)  
 > [📁 GitHub 프로젝트 보기](https://github.com/greenlotte6/lotte2-community-app-project-team2) 
 
@@ -134,6 +135,7 @@
 - **Email**: sjo112777@gmail.com
 - **GitHub**: [github.com/sjo112777](https://github.com/sjo112777)
 - **YouTube**: [@juno-c7g](https://www.youtube.com/@juno-c7g)
+- **Notion**: [notion](https://ludicrous-fernleaf-0a1.notion.site/Developer-Portfolio-20805cfa4bc78050aedecabee973d6ec)
 
 ---
 
