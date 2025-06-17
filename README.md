@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <p align="center">
-  <img src="https://github.com/sjo112777/sjo112777/blob/main/assets/banner.png" alt="손준오 개발자 배너" width="100%" />
+  <img src="https://github.com/sjo112777/sjo112777/blob/main/assets/banner.png" alt="손준오 개발자 배너" width="60%" />
 </p>
 
 <h1 align="center">👋 안녕하세요, 백엔드 개발자 손준오입니다!</h1>
