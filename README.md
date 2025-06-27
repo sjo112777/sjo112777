@@ -105,9 +105,11 @@
 
 ### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 진행중, 팀장)
 
-> [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c)  
+> [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c)
+> [🎬 시연 영상 보기]([https://www.youtube.com/watch?v=dfm1wOsYnGA&t=321s](https://www.youtube.com/watch?v=gd5XlUdqIS8))  
 > [🔗 Figma 화면 기획 보기](https://www.figma.com/design/bt67hocNve4BzdFSBGxi9f/%EB%A7%81%ED%81%AC%EC%98%A8-%EC%82%AC%EB%82%B4%EB%A9%94%EC%8B%A0%EC%A0%80--%EA%B8%B0%ED%9A%8D-%ED%94%BC%EA%B7%B8%EB%A7%88?t=Gi6ziLxQp5zXMqDy-0)  
-> [📁 GitHub 프로젝트 보기](https://github.com/greenlotte6/lotte2-community-app-project-team2) 
+> [📁 GitHub 프로젝트 보기](https://github.com/greenlotte6/lotte2-community-app-project-team2)
+> [📁 개인 클론 프로젝트 GitHub 보기](https://github.com/sjo112777/lotteonproject) _(개인 클론 버전)_
 
 | 📌 기능 구분               | 나의 주요 역할 및 설명                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
