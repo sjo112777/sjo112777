@@ -103,7 +103,7 @@
 | **쿠폰 시스템**     | - 쿠폰 발급 및 이력 관리 전체 기능<br>- 복잡한 다중 테이블 JOIN 쿼리 설계<br>- `Gson`을 이용한 JSON 직렬화 및 통신 처리                                  |
 | **DB 설계 및 ERD**  | - MySQL 기반 ERD 및 테이블 설계<br>- `QueryDSL` 기반 조건 검색 및 정렬 처리                                                                              |
 
-### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 진행중, 팀장)
+### 🧑‍💼 LinkOn 사내 커뮤니티 (2025.05~2025.06, 팀장)
 
 > [🔗 Notion 보고서 보기](https://chhak0503.notion.site/2-1ff7537e85eb803886b8fb121dd6417c)  
 > [🎬 시연 영상 보기](https://www.youtube.com/watch?v=gd5XlUdqIS8)  
